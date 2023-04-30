@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=akshayjain3450&theme=highcontrast&show_icons=true&count_private=true)
+
 <!--
 **akshayjain3450/akshayjain3450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
