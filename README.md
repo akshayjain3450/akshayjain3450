@@ -1,7 +1,6 @@
 ### Hi there, I am Akshay! 👋
 
 <div align=center>
-<h2>🏆 Github Profile Trophy</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayjain3450&layout=compact)
 
